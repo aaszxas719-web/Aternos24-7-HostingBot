@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "opsyh.aternos.me:34974",
+    "ip": "opsyh.aternos.me",
     "port": 34974,
     "version": "",
     "try-creative": false
